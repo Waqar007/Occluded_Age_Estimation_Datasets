@@ -17,7 +17,7 @@ This repository contains the occluded versions of three age estimation datasets.
 - Beard-Moustache
 - Periocular Makeup
 
-## Occlusion Types
+## Dataset Links
 Please use the following links to download the datasets:
 
 - APPA-REAL: https://drive.google.com/file/d/19R1lXnsb0l6woDkfZpIyinuVG3y7zPRh/view?usp=sharing
